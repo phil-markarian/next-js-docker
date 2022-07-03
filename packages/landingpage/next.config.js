@@ -1,5 +1,5 @@
 /** @type {import('next').NextConfig} */
-
+// https://www.npmjs.com/package/dotenv
 require('dotenv').config()
 
 module.exports = {

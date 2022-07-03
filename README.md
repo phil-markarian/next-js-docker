@@ -1,10 +1,10 @@
-# 🏄 next-js-docker
+# next-js-docker container (
 
-Based off of Kumar Abhirup's repo. 
 
-## 📦 Setup
 
-### 🖥️ Development environment
+## Setup
+
+### Development environment
 
 - Run
 
@@ -20,7 +20,7 @@ docker-compose up
 
 - Visit `http://localhost:3000/`
 
-### ⚒️ Linting
+### Linting
 
 #### In VSCode
 
@@ -32,15 +32,14 @@ docker-compose up
 - Run `yarn lint` in indivisual `packages` to check for linting errors.
 - Run `yarn lint:fix` to fix the linting errors.
 
-## 🦄 Info
+##  Info
 
 - We are following the micro-services architechture. That means, to install npm modules, you'll have to run `yarn add` in the respective packages.
 - To customize the linter, use `.eslintrc` and `.prettierrc` file. [Learn more](https://eslint.org)
 
-## 📝 License
+##  Credit
 
-**MIT &copy; Kumar Abhirup**
+Based off of Kumar Abhirup's repo. Many thanks!
 
-Created by [Kumar Abhirup](https://kumar.now.sh) 👉 [![Twitter](https://img.shields.io/twitter/follow/kumar_abhirup.svg?style=social&label=@kumar_abhirup)](https://twitter.com/kumar_abhirup/).
+[Dockerized](https://github.com/kumarabhirup/dockerized)
 
-Peace ✌️

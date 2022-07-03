@@ -1,8 +1,7 @@
 # 🏄 next-js-docker
 
-[![emoji-log](https://cdn.jsdelivr.net/gh/ahmadawais/stuff@ca978741836412b5e33ce8561f5f95c933177067/emoji-log/flat.svg)]
-
-Based off of Kumar Abhirup's repo. (https://github.com/KumarAbhirup/Emoji-Log/)
+Based off of Kumar Abhirup's repo. 
+https://github.com/KumarAbhirup/
 
 ## 📦 Setup
 

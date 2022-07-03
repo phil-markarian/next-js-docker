@@ -1,3 +1,5 @@
+/** @type {import('next').NextConfig} */
+
 require('dotenv').config()
 
 module.exports = {
@@ -12,4 +14,5 @@ module.exports = {
     
     return config
   },
+  reactStrictMode: true,
 }

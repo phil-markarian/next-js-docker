@@ -24,10 +24,10 @@
     "@types/node": "^12.12.21",
     "@types/react": "^16.9.16",
     "@types/react-dom": "^16.9.4",
-    "eslint": "^6.8.0",
+    "eslint": "latest",
     "eslint-config-airbnb-typescript-prettier": "^2.1.0",
     "prettier": "^1.18.2",
-    "typescript": "3.7.3"
+    "typescript": "latest"
   },
   "license": "ISC"
 }

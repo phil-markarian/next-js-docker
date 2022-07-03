@@ -9,8 +9,8 @@
 - Run
 
 ```bash
-git clone https://github.com/KumarAbhirup/dockerized dockerized # to clone project
-cd dockerized # enter in the project
+git clone https://github.com/phil-markarian/next-js-docker # to clone project
+cd next-js-docker # enter in the project
 docker-compose up
 ```
 

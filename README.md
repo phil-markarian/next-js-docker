@@ -1,7 +1,8 @@
-# 🏄 dockerized
+# 🏄 next-js-docker
 
-[![emoji-log](https://cdn.jsdelivr.net/gh/ahmadawais/stuff@ca978741836412b5e33ce8561f5f95c933177067/emoji-log/flat.svg)](https://github.com/KumarAbhirup/Emoji-Log/)
-[![Twitter](https://img.shields.io/twitter/follow/kumar_abhirup.svg?style=social&label=@kumar_abhirup)](https://twitter.com/kumar_abhirup/)
+[![emoji-log](https://cdn.jsdelivr.net/gh/ahmadawais/stuff@ca978741836412b5e33ce8561f5f95c933177067/emoji-log/flat.svg)]
+
+Based off of Kumar Abhirup's repo. (https://github.com/KumarAbhirup/Emoji-Log/)
 
 ## 📦 Setup
 

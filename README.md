@@ -1,7 +1,6 @@
 # 🏄 next-js-docker
 
 Based off of Kumar Abhirup's repo. 
-https://github.com/KumarAbhirup/
 
 ## 📦 Setup
 
